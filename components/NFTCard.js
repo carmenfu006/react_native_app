@@ -22,8 +22,7 @@ const NFTCard = ({ data }) => {
           style={{
               width: "100%",
               height: "100%",
-              borderTopLeftRadius: SIZES.font,
-              borderTopLeftRadius: SIZES.font
+              borderRadius: SIZES.font
           }}
         />
 
